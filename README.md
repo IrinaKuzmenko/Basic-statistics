@@ -14,8 +14,8 @@
 
 ## Используемые библиотеки:
 - pandas
-- seaborn as
-- matplotlib.pyplot
-- scipy.stats
+- seaborn
+- matplotlib
+- scipy
 
 
